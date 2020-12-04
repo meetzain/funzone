@@ -47,16 +47,7 @@
     ],
     "uniqCompNum": 15,
     "versionPublish": "5.2.0",
-    "screenshot": "screenshot.png",
-    "imageResize": true,
-    "favicon": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false,
-    "witsec-white-label": true
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
